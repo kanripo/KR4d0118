@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 溪堂集
-#+DATE: 2020-03-31 11:34:12.512709
+#+DATE: 2020-03-31 11:34:12.618223
 #+PROPERTY: ID KR4d0118
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR4d0118_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -230,7 +230,7 @@
 ¶
 　　小隱園記¶
 ¶
-　　環仙翁之居皆山也其東北岡巒林𪋤望之而雄偉即¶
+　　環仙翁之居皆山也其東北岡巒林麓望之而雄偉即¶
 之而深秀如龍之躍如鸞之翔而欲下也以仙翁隠居¶
 于此因名之曰小隱焉依山之趾繚而為逕負山之腹¶
 敞而為堂因其窪䟽而為池隆其中峙而為島顯而為¶

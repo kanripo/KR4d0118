@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 溪堂集
-#+DATE: 2020-03-31 11:34:12.522098
+#+DATE: 2020-03-31 11:34:12.625536
 #+PROPERTY: ID KR4d0118
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 8
 <pb:KR4d0118_WYG_008-1a>¶
 　　欽定四庫全書¶
@@ -291,7 +291,7 @@
 尉守鄰封居章之湄有盜拿舟驍健莫支君勤部伍力¶
 討窮追出沒風濤幾葬蛟螭常開幕府訟牒交馳老胥¶
 <pb:KR4d0118_WYG_008-15b>¶
-舞文日抵其𡾟薅苗櫛髮莫子敢欺府公笑語惟君是¶
+舞文日抵其巇薅苗櫛髮莫子敢欺府公笑語惟君是¶
 毗一卧遄徃咎欲誰歸九原之下何以釋悲¶
 ¶
 　　許居士墓誌銘¶

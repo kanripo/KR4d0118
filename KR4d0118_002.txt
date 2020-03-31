@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 溪堂集
-#+DATE: 2020-03-31 11:34:12.464124
+#+DATE: 2020-03-31 11:34:12.585235
 #+PROPERTY: ID KR4d0118
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4d0118_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -189,7 +189,7 @@
 ¶
 　　寄洪龜父戯效其體¶
 ¶
-　　落落&KR0716;山老晴江瑩眉宇問道崆峒墟枯槎泛江滸歸¶
+　　落落匡山老晴江瑩眉宇問道崆峒墟枯槎泛江滸歸¶
 歟謝逺逰曲肱卧環堵磅礴萬物表動植見吞吐曜靈¶
 旋磨蟻四氣遽如許咄咄千載事俯仰變今古安得仙¶
 人杖頽齡為君拄¶
